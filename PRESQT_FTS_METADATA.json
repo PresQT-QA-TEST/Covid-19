@@ -1,0 +1,242 @@
+{
+    "allKeywords": [],
+    "actions": [
+        {
+            "id": "2ed40e90-0bd3-46be-9d3e-84da2f9b30fd",
+            "details": "PresQT Transfer from OSF to GitHub",
+            "actionDateTime": "2020-07-07 17:32:28.678842+00:00",
+            "actionType": "resource_transfer_in",
+            "sourceTargetName": "osf",
+            "sourceUsername": "PresQT QA",
+            "destinationTargetName": "github",
+            "destinationUsername": "PresQT-QA-TEST",
+            "keywords": {
+                "sourceKeywordsAdded": [],
+                "sourceKeywordsEnhanced": [],
+                "enhancer": "scigraph"
+            },
+            "files": {
+                "created": [
+                    {
+                        "destinationPath": "/Covid-19/osfstorage/Materials.docx",
+                        "destinationHashes": {},
+                        "failedFixityInfo": [
+                            {
+                                "NewGeneratedHash": "a040b67d7f5442c9b3157c2a3acdafb6",
+                                "algorithmUsed": "md5",
+                                "reasonFixityFailed": "Either the destination did not provide a hash or fixity failed during upload."
+                            }
+                        ],
+                        "title": "Materials.docx",
+                        "sourceHashes": {
+                            "md5": "a040b67d7f5442c9b3157c2a3acdafb6",
+                            "sha256": "04989786611afc2ddef027a298bea3fccca9fad00ae8c3a5f28582b2c98b38df"
+                        },
+                        "sourcePath": "/Covid-19/osfstorage/Materials.docx",
+                        "extra": {
+                            "id": "5ece553dc75686024d2d1663",
+                            "parent_project_id": "ua3bh",
+                            "endpoint": "https://api.osf.io/v2/files/5ece553dc75686024d2d1663/",
+                            "download_url": "https://files.osf.io/v1/resources/ua3bh/providers/osfstorage/5ece553dc75686024d2d1663",
+                            "upload_url": "https://files.osf.io/v1/resources/ua3bh/providers/osfstorage/5ece553dc75686024d2d1663",
+                            "delete_url": "https://files.osf.io/v1/resources/ua3bh/providers/osfstorage/5ece553dc75686024d2d1663",
+                            "last_touched": null,
+                            "date_modified": "2020-05-27T11:55:41.278031Z",
+                            "current_version": 1,
+                            "date_created": "2020-05-27T11:55:41.278031Z",
+                            "provider": "osfstorage",
+                            "path": "/5ece553dc75686024d2d1663",
+                            "current_user_can_comment": true,
+                            "guid": "7bsta",
+                            "checkout": null,
+                            "tags": [],
+                            "size": 17374
+                        }
+                    },
+                    {
+                        "destinationPath": "/Covid-19/osfstorage/Read_Me.txt",
+                        "destinationHashes": {},
+                        "failedFixityInfo": [
+                            {
+                                "NewGeneratedHash": "c1084fb9e376fce04e73294fdcf15b31",
+                                "algorithmUsed": "md5",
+                                "reasonFixityFailed": "Either the destination did not provide a hash or fixity failed during upload."
+                            }
+                        ],
+                        "title": "Read Me.txt",
+                        "sourceHashes": {
+                            "md5": "c1084fb9e376fce04e73294fdcf15b31",
+                            "sha256": "9bf4a2f5daddabf3620d47011275fd3a28d27c1dc1f6b6c143c71eb707953535"
+                        },
+                        "sourcePath": "/Covid-19/osfstorage/Read Me.txt",
+                        "extra": {
+                            "id": "5ecd3965aeeb6d01c3085823",
+                            "parent_project_id": "ua3bh",
+                            "endpoint": "https://api.osf.io/v2/files/5ecd3965aeeb6d01c3085823/",
+                            "download_url": "https://files.osf.io/v1/resources/ua3bh/providers/osfstorage/5ecd3965aeeb6d01c3085823",
+                            "upload_url": "https://files.osf.io/v1/resources/ua3bh/providers/osfstorage/5ecd3965aeeb6d01c3085823",
+                            "delete_url": "https://files.osf.io/v1/resources/ua3bh/providers/osfstorage/5ecd3965aeeb6d01c3085823",
+                            "last_touched": null,
+                            "date_modified": "2020-05-26T15:44:37.921183Z",
+                            "current_version": 1,
+                            "date_created": "2020-05-26T15:44:37.921183Z",
+                            "provider": "osfstorage",
+                            "path": "/5ecd3965aeeb6d01c3085823",
+                            "current_user_can_comment": true,
+                            "guid": "7fmtc",
+                            "checkout": null,
+                            "tags": [],
+                            "size": 627
+                        }
+                    },
+                    {
+                        "destinationPath": "/Covid-19/osfstorage/Study4_COVID19_Closeness_SocialDistancing.sav",
+                        "destinationHashes": {},
+                        "failedFixityInfo": [
+                            {
+                                "NewGeneratedHash": "5fa977c424a87077ff36fe8960a16ba7",
+                                "algorithmUsed": "md5",
+                                "reasonFixityFailed": "Either the destination did not provide a hash or fixity failed during upload."
+                            }
+                        ],
+                        "title": "Study4_COVID19_Closeness_SocialDistancing.sav",
+                        "sourceHashes": {
+                            "md5": "5fa977c424a87077ff36fe8960a16ba7",
+                            "sha256": "0d734dbb09adc628496b8aff806d58b5c39e13eb48ec0a4a1cb8a32dd9815ac3"
+                        },
+                        "sourcePath": "/Covid-19/osfstorage/Study4_COVID19_Closeness_SocialDistancing.sav",
+                        "extra": {
+                            "id": "5ecd3964c7568601ce2d31bb",
+                            "parent_project_id": "ua3bh",
+                            "endpoint": "https://api.osf.io/v2/files/5ecd3964c7568601ce2d31bb/",
+                            "download_url": "https://files.osf.io/v1/resources/ua3bh/providers/osfstorage/5ecd3964c7568601ce2d31bb",
+                            "upload_url": "https://files.osf.io/v1/resources/ua3bh/providers/osfstorage/5ecd3964c7568601ce2d31bb",
+                            "delete_url": "https://files.osf.io/v1/resources/ua3bh/providers/osfstorage/5ecd3964c7568601ce2d31bb",
+                            "last_touched": null,
+                            "date_modified": "2020-05-26T15:44:36.631592Z",
+                            "current_version": 1,
+                            "date_created": "2020-05-26T15:44:36.631592Z",
+                            "provider": "osfstorage",
+                            "path": "/5ecd3964c7568601ce2d31bb",
+                            "current_user_can_comment": true,
+                            "guid": "zw3r4",
+                            "checkout": null,
+                            "tags": [],
+                            "size": 470961
+                        }
+                    },
+                    {
+                        "destinationPath": "/Covid-19/osfstorage/Study3_COVID19_Closeness_SocialDistancing.sav",
+                        "destinationHashes": {},
+                        "failedFixityInfo": [
+                            {
+                                "NewGeneratedHash": "1e2af1598bf955f2428d69d6dba4c244",
+                                "algorithmUsed": "md5",
+                                "reasonFixityFailed": "Either the destination did not provide a hash or fixity failed during upload."
+                            }
+                        ],
+                        "title": "Study3_COVID19_Closeness_SocialDistancing.sav",
+                        "sourceHashes": {
+                            "md5": "1e2af1598bf955f2428d69d6dba4c244",
+                            "sha256": "9a5dbee511f7b28dc91ef0f4831b0c45c6d5fbbb71bf30683101f5c4745f4fcd"
+                        },
+                        "sourcePath": "/Covid-19/osfstorage/Study3_COVID19_Closeness_SocialDistancing.sav",
+                        "extra": {
+                            "id": "5ecd3330c7568601dc2d237f",
+                            "parent_project_id": "ua3bh",
+                            "endpoint": "https://api.osf.io/v2/files/5ecd3330c7568601dc2d237f/",
+                            "download_url": "https://files.osf.io/v1/resources/ua3bh/providers/osfstorage/5ecd3330c7568601dc2d237f",
+                            "upload_url": "https://files.osf.io/v1/resources/ua3bh/providers/osfstorage/5ecd3330c7568601dc2d237f",
+                            "delete_url": "https://files.osf.io/v1/resources/ua3bh/providers/osfstorage/5ecd3330c7568601dc2d237f",
+                            "last_touched": null,
+                            "date_modified": "2020-05-26T15:18:08.132856Z",
+                            "current_version": 1,
+                            "date_created": "2020-05-26T15:18:08.132856Z",
+                            "provider": "osfstorage",
+                            "path": "/5ecd3330c7568601dc2d237f",
+                            "current_user_can_comment": true,
+                            "guid": null,
+                            "checkout": null,
+                            "tags": [],
+                            "size": 852288
+                        }
+                    },
+                    {
+                        "destinationPath": "/Covid-19/osfstorage/Study2_COVID19_DTA.sav",
+                        "destinationHashes": {},
+                        "failedFixityInfo": [
+                            {
+                                "NewGeneratedHash": "240669efd39e2dff0ae7e7569147016a",
+                                "algorithmUsed": "md5",
+                                "reasonFixityFailed": "Either the destination did not provide a hash or fixity failed during upload."
+                            }
+                        ],
+                        "title": "Study2_COVID19_DTA.sav",
+                        "sourceHashes": {
+                            "md5": "240669efd39e2dff0ae7e7569147016a",
+                            "sha256": "1b56dc41c3a36a5dd7de54c76371b9278d87231a09d7e97f2dabb0772f6cd602"
+                        },
+                        "sourcePath": "/Covid-19/osfstorage/Study2_COVID19_DTA.sav",
+                        "extra": {
+                            "id": "5ecd2b68c7568601ce2d248a",
+                            "parent_project_id": "ua3bh",
+                            "endpoint": "https://api.osf.io/v2/files/5ecd2b68c7568601ce2d248a/",
+                            "download_url": "https://files.osf.io/v1/resources/ua3bh/providers/osfstorage/5ecd2b68c7568601ce2d248a",
+                            "upload_url": "https://files.osf.io/v1/resources/ua3bh/providers/osfstorage/5ecd2b68c7568601ce2d248a",
+                            "delete_url": "https://files.osf.io/v1/resources/ua3bh/providers/osfstorage/5ecd2b68c7568601ce2d248a",
+                            "last_touched": null,
+                            "date_modified": "2020-05-26T14:44:56.945240Z",
+                            "current_version": 1,
+                            "date_created": "2020-05-26T14:44:56.945240Z",
+                            "provider": "osfstorage",
+                            "path": "/5ecd2b68c7568601ce2d248a",
+                            "current_user_can_comment": true,
+                            "guid": "va8c4",
+                            "checkout": null,
+                            "tags": [],
+                            "size": 1522374
+                        }
+                    },
+                    {
+                        "destinationPath": "/Covid-19/osfstorage/Study1_COVID19_Closeness.sav",
+                        "destinationHashes": {},
+                        "failedFixityInfo": [
+                            {
+                                "NewGeneratedHash": "d4bc359520ade96e5e8ba9a7140f064e",
+                                "algorithmUsed": "md5",
+                                "reasonFixityFailed": "Either the destination did not provide a hash or fixity failed during upload."
+                            }
+                        ],
+                        "title": "Study1_COVID19_Closeness.sav",
+                        "sourceHashes": {
+                            "md5": "d4bc359520ade96e5e8ba9a7140f064e",
+                            "sha256": "24e0a61a20134294b401a866434ed3f3c02abee0bafa707f261697cea592d40a"
+                        },
+                        "sourcePath": "/Covid-19/osfstorage/Study1_COVID19_Closeness.sav",
+                        "extra": {
+                            "id": "5ec6a63517ac9e0039623ec6",
+                            "parent_project_id": "ua3bh",
+                            "endpoint": "https://api.osf.io/v2/files/5ec6a63517ac9e0039623ec6/",
+                            "download_url": "https://files.osf.io/v1/resources/ua3bh/providers/osfstorage/5ec6a63517ac9e0039623ec6",
+                            "upload_url": "https://files.osf.io/v1/resources/ua3bh/providers/osfstorage/5ec6a63517ac9e0039623ec6",
+                            "delete_url": "https://files.osf.io/v1/resources/ua3bh/providers/osfstorage/5ec6a63517ac9e0039623ec6",
+                            "last_touched": null,
+                            "date_modified": "2020-05-21T16:03:01.391408Z",
+                            "current_version": 1,
+                            "date_created": "2020-05-21T16:03:01.391408Z",
+                            "provider": "osfstorage",
+                            "path": "/5ec6a63517ac9e0039623ec6",
+                            "current_user_can_comment": true,
+                            "guid": "f5xdr",
+                            "checkout": null,
+                            "tags": [],
+                            "size": 1024433
+                        }
+                    }
+                ],
+                "updated": [],
+                "ignored": []
+            }
+        }
+    ]
+}
