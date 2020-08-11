@@ -2,62 +2,6 @@
     "allKeywords": [],
     "actions": [
         {
-            "id": "b9998e38-9e71-4c72-b2a8-b6452b6e5e81",
-            "details": "PresQT Transfer from FigShare to GitHub",
-            "actionDateTime": "2020-08-11 20:21:36.145898+00:00",
-            "actionType": "resource_transfer_in",
-            "sourceTargetName": "figshare",
-            "sourceUsername": "workwell-crc@nd.edu",
-            "destinationTargetName": "github",
-            "destinationUsername": "PresQT-QA-TEST",
-            "keywords": {},
-            "files": {
-                "created": [
-                    {
-                        "destinationPath": "/Covid-19/ecoute.png",
-                        "destinationHashes": {},
-                        "failedFixityInfo": [
-                            {
-                                "NewGeneratedHash": "79e7cf5b5b52b6187ba6249ac6820543",
-                                "algorithmUsed": "md5",
-                                "reasonFixityFailed": "Either the destination did not provide a hash or fixity failed during upload."
-                            }
-                        ],
-                        "title": "ecoute.png",
-                        "sourceHashes": {
-                            "md5": "79e7cf5b5b52b6187ba6249ac6820543"
-                        },
-                        "sourcePath": "/Hello World/Ecoute/ecoute.png",
-                        "extra": {
-                            "size": 21439
-                        }
-                    }
-                ],
-                "updated": [],
-                "ignored": []
-            }
-        },
-        {
-            "id": "e503d6b0-49b1-429e-9e07-95c5f30bb077",
-            "details": "PresQT Transfer from GitHub to OSF",
-            "actionDateTime": "2020-07-31 16:52:57.595103+00:00",
-            "actionType": "transfer_enhancement",
-            "sourceTargetName": "github",
-            "sourceUsername": "PresQT-QA-TEST",
-            "destinationTargetName": "github",
-            "destinationUsername": "PresQT-QA-TEST",
-            "keywords": {
-                "sourceKeywordsAdded": [],
-                "sourceKeywordsEnhanced": [],
-                "enhancer": "scigraph"
-            },
-            "files": {
-                "created": [],
-                "updated": [],
-                "ignored": []
-            }
-        },
-        {
             "id": "2ed40e90-0bd3-46be-9d3e-84da2f9b30fd",
             "details": "PresQT Transfer from OSF to GitHub",
             "actionDateTime": "2020-07-07 17:32:28.678842+00:00",
